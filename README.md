@@ -1,22 +1,35 @@
-👩‍💻 About Me
-I am a Computer Science Engineering graduate (2025) with strong interest in Data Analytics and Machine Learning.
+# 📊 Data Analytics Portfolio – Saritha Sodari
+
+## 👩‍🎓 About Me
+B.Tech graduate (2025) in Computer Science & Engineering.
+Aspiring Data Analyst with hands-on experience in Python, SQL, Power BI, Excel, Tableau, and Machine Learning.
 
 ## 🛠 Skills
-- Python
+- Python (NumPy, Pandas, Matplotlib)
 - SQL
 - Power BI
 - Excel
 - Tableau
 - Machine Learning
-- Statistics
 
-## 📂 Projects
-### 🔸 Forest Fire Detection
-Machine learning-based forest fire detection using UAV images.
+## 📁 Projects
+### 🔹 Python
+- Data Cleaning & EDA projects
 
-### 🔸 Deep Fake Audio Detection
-ML-based system to detect fake audio using audio features.
+### 🔹 SQL
+- Practice queries & real-world case studies
+
+### 🔹 Power BI
+- Interactive dashboards
+
+### 🔹 Excel
+- Pivot tables & analysis
+
+### 🔹 Machine Learning
+- Forest Fire Detection using UAV Images
+- Deepfake Audio Detection using ML
 
 ## 📫 Contact
-- LinkedIn:https://www.linkedin.com/in/sodarisaritha93
-- Email: sodarisaritha2@gmail.com
+- LinkedIn:https://www.linkedin.com/in/
+sodarisaritha93
+- GitHub:
