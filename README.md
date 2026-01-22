@@ -32,4 +32,4 @@ Aspiring Data Analyst with hands-on experience in Python, SQL, Power BI, Excel, 
 ## 📫 Contact
 - LinkedIn:https://www.linkedin.com/in/
 sodarisaritha93
-- GitHub:
+- GitHub:https://github.com/SarithaSodari
